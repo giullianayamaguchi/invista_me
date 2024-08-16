@@ -1,5 +1,5 @@
 <H1>🌟 Apresento com alegria o projeto AeroFusion ! 🚀 </H1>
-<img src="img/logo.png" alt="Logo do Projeto" width="100" height="100" align="center">
+<img src="img/logo.png" alt="Logo do Projeto" width="800" height="400" align="center">
 <P>
 "Invista-me" é um projeto que surge da necessidade de simplificar o controle de finanças pessoais, oferecendo uma ferramenta poderosa e acessível para a gestão de investimentos. 
   A proposta principal deste sistema é permitir que os usuários possam, de maneira prática e eficiente, adicionar, alterar e excluir investimentos, além de gerenciar valores, facilitando assim o acompanhamento detalhado de suas finanças.
